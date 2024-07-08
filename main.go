@@ -1,19 +1,3 @@
-// Énoncé :
-
-// Développer une application CLI (Command Line Interface) en GO de gestion de produits comportant le menu suivant :
-// Ajouter un produit. -
-// Afficher la liste des produits -
-// Modifier un produit -
-// Supprimer un produit -
-// Exporter les informations produits dans un fichier Excel (en .xlsx) -
-// Lancer un serveur Http avec une page web -
-// Se connecter à une VM en ssh
-// Se connecter à un serveur FTP -
-// (Bonus) Lancer l'interface graphique (qui comportera toutes les fonctionnalités du menu)
-// Quitter
-
-//LE SERVEUR DOIT ETRE RELIE A LA BDD?
-
 package main
 
 import (
