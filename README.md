@@ -9,7 +9,7 @@ Here is a CLI containing tools that allow you to perform data treatment (via myS
 3. Update a product (mySQL)
 4. Delete a product (mySQL)
 5. Export data in an Excel file (.xlsx)
-6. Run local HHTP server with a webpage
+6. Run local HTTP server with a webpage
 7. Connect to a Virtual Machine via ssh
 8. Connect to an FTP server
 9. Quit
